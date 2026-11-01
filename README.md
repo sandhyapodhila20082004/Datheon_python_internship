@@ -14,6 +14,27 @@ Features
 - Prevents duplicate guesses
 - Victory and defeat screens
 
+Task 2: Automated File Organizer
+
+A Python utility that automatically organizes files into folders based on their extensions.
+
+Features
+
+- Organizes documents, images, videos, archives, and code files
+- Automatically creates category folders
+- Moves files using Python libraries
+- Handles duplicate filenames
+- Displays an execution summary
+
+Technologies Used
+
+- Python 3
+- Random
+- OS
+- Shutil
+- Pathlib
+
+
 How to Run
 
 Download or clone this repository.
